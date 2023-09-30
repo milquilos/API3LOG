@@ -1,6 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+# Aprendizado por Projeto Integrado (API) 3º Semestre Logística Manhã
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -35,14 +33,15 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+Resolver o problema de transporte do cliente
+
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e registros (vídeos e apresentações) das Sprints
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
