@@ -66,25 +66,24 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
+## Sprint 0. Entendimento do Projeto
+- [x] Definição dos papéis;
+- [x] Identificação do desafio;
+- [x] Gestão do projeto - Jira Software;
 - [x] Desenvolva o design;
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 1. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
 - [ ] Vídeo passo a passo;
 - [ ] Treinamento com os professores;
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 3 . Implementação
+## Sprint 2 . Implementação
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
@@ -95,10 +94,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
       
-## Sprint 4. Operacionalização
+## Sprint 3. Otimização
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
-- [x] Esboce o layout;
+- [x] Python Code para otimização do Output;
 - [x] Escolha cores e fontes;
 - [x] Desenvolva o design;
 - [ ] Teste e revise;
@@ -119,7 +118,7 @@ Regras de Negócio
 Requisitos funcionais 
 - Conteúdo da apresentação   
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
+- Dashboard no BI
 
   
 Requisitos não funcionais
@@ -130,22 +129,21 @@ Requisitos não funcionais
 
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skill (habilidades técnicas)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Projetos no JIRA Software | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| MYSQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill (habilidades relacionais)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
