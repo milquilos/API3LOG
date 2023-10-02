@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) 3º Semestre Logística Manhã
+# Aprendizado por Projeto Integrado (API) 3º Semestre Logística
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
