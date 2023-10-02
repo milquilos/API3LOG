@@ -70,39 +70,29 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Identificação do desafio;
 - [x] Gestão do projeto - Jira Software;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Comunique-se com  cliente - Slack
+- [ ] Treinar o speech;
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
+- [ ] Tratamento da base de dados fornecida;
+- [ ] Comunicação com o cliente;
+- [ ] Elaborar um dashboard funcional;
+- [ ] Validar as escolhas junto ao cliente;
 - [ ] Monitoramento e ajustes.
       
-## Sprint 2 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 2 . Estruturação dos dados 
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Desenvolva o design;
+- [ ] Testar e revisar;
+
       
 ## Sprint 3. Otimização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Python Code para otimização do Output;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+- [ ] Definir o escopo da otimização pretendida;
+- [ ] Validar junto ao cliente;
+- [ ] Python Code para otimização do Output;
+- [ ] Comunicar;
 - [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
   
 <div align="center">
@@ -121,7 +111,7 @@ Requisitos funcionais
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
+- Usar tecnologias especifícas de apoio tecnológico
 - Metodologia ágil - SCRUM
 - Power BI / Jira Software / MySQL
   
@@ -137,8 +127,7 @@ Requisitos não funcionais
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos no JIRA Software | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | MYSQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -160,7 +149,7 @@ Requisitos não funcionais
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Alexandre Michiles        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-michiles1981-801830145/)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
+| Product Owner |   Alexandre Michiles        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-michiles1981-801830145/)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/milquilos/API3LOG)              |
 | Scrum Team  | Bárbara Anjos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 | Scrum Team  | Diana Moura              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
 |  Scrum Tea  | Sérgio Fernando          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
