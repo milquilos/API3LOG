@@ -44,7 +44,8 @@ Resolver o problema de transporte do cliente
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
 
 Apresentação das funcionalidades
-Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
+
+EM ANDAMENTO
 
 Adicionar video e documentos nessa seção
 
