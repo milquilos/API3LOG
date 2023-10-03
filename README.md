@@ -122,7 +122,6 @@ Requisitos não funcionais
 ## Hard Skill (habilidades técnicas)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
-  
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
@@ -135,7 +134,6 @@ Requisitos não funcionais
 ## Soft Skill (habilidades relacionais)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
-
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
