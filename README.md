@@ -49,7 +49,7 @@ EM ANDAMENTO
 
 Adicionar video e documentos nessa seção
 
-EM ANDAMENTO
+### BI Dashboard [(clique aqui)](https://api3log.slack.com/files/U05RBJ3GP1A/F062P9CT0SU/compartilhamento_de_tela_-_2023-10-19_22h01min47s.webm)
 
 ## Tecnologias Utilizadas
 
