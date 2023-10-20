@@ -70,21 +70,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Definição dos papéis;
 - [x] Identificação do desafio;
 - [x] Gestão do projeto - Jira Software;
-- [x] Desenvolva o design;
-- [ ] Comunique-se com  cliente - Slack
-- [ ] Treinar o speech;
+
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Tratamento da base de dados fornecida;
-- [ ] Comunicação com o cliente;
-- [ ] Elaborar um dashboard funcional;
+- [ ] Elaborar um dashboard funcional no Power BI;
 - [ ] Validar as escolhas junto ao cliente;
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 2 . Estruturação dos dados 
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Desenvolva o design;
+- [ ] Ootimização do Output para empresa embarcadora
+- [ ] Python code para otimização
 - [ ] Testar e revisar;
 
       
@@ -92,9 +88,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Definir o escopo da otimização pretendida;
 - [ ] Validar junto ao cliente;
 - [ ] Python Code para otimização do Output;
-- [ ] Comunicar;
-- [ ] Criação do vídeo;
-
   
 <div align="center">
     
