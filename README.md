@@ -15,17 +15,17 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais, validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Valor Possível. 
 Os resultados dos projetos obedecem cronograma definido pelo cliente durante o Kick-off.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 05/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 03/10/2023 | em progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  24/10/2023 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 14/11/2023  | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 05/12/2023  | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|01 | 03/10/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  24/10/2023 | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 14/11/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 05/12/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
@@ -35,10 +35,10 @@ Sprint | Previsão | Status| Histórico|
 # Objetivo do Projeto
 Resolver o problema de transporte do cliente
 
-* Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
+
 * Facilitar o compartilhamento e feedback;
+
 * Desenvolver habilidades técnicas.
 
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
@@ -98,15 +98,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
 </div>
 
 Regras de Negócio
 - 
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
+- Banco de dados estruturado
 - Relatórios 
 - Dashboard no BI
 
@@ -127,7 +125,7 @@ Requisitos não funcionais
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos no JIRA Software | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | MYSQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Product Owner Mindset | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
