@@ -30,8 +30,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-
-
 # Objetivo do Projeto
 *** Resolver o problema de transporte do cliente. Otimizar o OUTPUT gerado.
 
@@ -42,7 +40,8 @@ Sprint | Previsão | Status| Histórico|
 * Desenvolver habilidades técnicas.
 
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
-[ROTAS_pallets_web.pdf](https://github.com/milquilos/API3LOG/files/13107101/ROTAS_pallets_web.pdf)
+
+Tela BI [ROTAS_pallets_web.pdf](https://github.com/milquilos/API3LOG/files/13107101/ROTAS_pallets_web.pdf)
 
 Apresentação das funcionalidades
 
@@ -80,7 +79,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 2 . Estruturação dos dados 
-- [ ] Ootimização do Output para empresa embarcadora
+- [ ] Otimização do Output para empresa embarcadora
 - [ ] Python code para otimização
 - [ ] Testar e revisar;
 
@@ -111,36 +110,48 @@ Requisitos não funcionais
 
 # Competências desenvolvidas
 
-## Hard Skill (habilidades técnicas)
-<details>
+## Hard Skills (habilidades técnicas)
+
 <summary>Hard Skills desenvolvidas</summary>
+
 | Tecnologia/Metodologia | Classificação |
+
 | ---------------------- | ------------- |
+
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 | Gestão de Projetos no JIRA Software | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+
 | MYSQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 | Product Owner Mindset | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
 
 ## Soft Skill (habilidades relacionais)
-<details>
+
 <summary>Soft Skills desenvolvidas</summary>
+
 | Habilidades | Classificação |
+
 | ---------------------- | ------------- |
+
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+
 | Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
 # Membros da Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                     |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Alexandre Michiles        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-michiles1981-801830145/)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/milquilos/API3LOG)              |
 | Scrum Team  | Bárbara Anjos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 | Scrum Team  | Diana Moura              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Scrum Team  | Sérgio Fernando          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Scrum Master  | Sérgio Fernando          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
