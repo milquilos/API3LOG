@@ -77,8 +77,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] Tratamento da base de dados fornecida;
 - [ ] Elaborar um dashboard funcional no Power BI;
-- [ ] Validar as escolhas junto ao cliente;
-- [ ] Monitoramento e ajustes.
       
 ## Sprint 2 . Estruturação dos dados 
 - [ ] Otimização do Output para empresa embarcadora;
