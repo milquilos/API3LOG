@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Tecnologias](#tecnologias)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos, apresentações, dashboards)) das sprints](#funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos, apresentações, dashboards)) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-Resolver o problema de transporte do cliente
+** Resolver o problema de transporte do cliente. Otimizar o OUTPUT gerado.
 
 * Organizar e estruturar as informações;
 
@@ -53,7 +53,9 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-![jira](https://github.com/jeancosta4/githubapi/assets/89345200/8e492185-a267-49a3-b60e-dac9dec0add6)
+* Jira Software
+* Microsoft Power BI
+* SLACK 
 
   ### Produto 
   > Propor solução viável para otimizar a produtividade de uma empresa transportadora.  
