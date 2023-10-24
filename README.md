@@ -22,10 +22,10 @@ Os resultados dos projetos obedecem cronograma definido pelo cliente durante o K
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 05/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 03/10/2023 | concluído| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/alexandre_silva255_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BCC924850-3CE1-4E70-BB7F-6BD8E22FC775%7D&file=Sprint0_0310203_ROTEIRO.docx&action=default&mobileredirect=true&DefaultItemOpen=1) | 
-|02|  24/10/2023 | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 14/11/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 05/12/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|00 | 03/10/2023 | concluído| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/alexandre_silva255_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BCC924850-3CE1-4E70-BB7F-6BD8E22FC775%7D&file=Sprint0_0310203_ROTEIRO.docx&action=default&mobileredirect=true&DefaultItemOpen=1) | 
+|01|  24/10/2023 | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 14/11/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 05/12/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
@@ -41,11 +41,14 @@ Sprint | Previsão | Status| Histórico|
 
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
 
-Tela BI [ROTAS_pallets_web.pdf](https://github.com/milquilos/API3LOG/files/13107101/ROTAS_pallets_web.pdf)
+![Captura de tela 2023-10-23 234116](https://github.com/milquilos/API3LOG/assets/112833107/81260e50-8be8-4561-8a87-df5bed21f1f0)
 
-Apresentação das funcionalidades
+![Captura de tela 2023-10-23 233740](https://github.com/milquilos/API3LOG/assets/112833107/acca98b9-d60c-450f-b70e-b71b03fd7714)
 
-EM ANDAMENTO
+![Captura de tela 2023-10-23 234357](https://github.com/milquilos/API3LOG/assets/112833107/1e1de19f-750b-4695-b661-781e41042661)
+![Captura de tela 2023-10-23 234429](https://github.com/milquilos/API3LOG/assets/112833107/582b6a04-26a1-4a45-b201-66cbd34670b9)
+![Captura de tela 2023-10-23 234456](https://github.com/milquilos/API3LOG/assets/112833107/a751f325-feac-4280-8d62-b437c4c3fad2)
+
 
 ### Tela BI [(clique aqui)](https://api3log.slack.com/files/U05RBJ3GP1A/F062P9CT0SU/compartilhamento_de_tela_-_2023-10-19_22h01min47s.webm)
 
@@ -79,8 +82,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Monitoramento e ajustes.
       
 ## Sprint 2 . Estruturação dos dados 
-- [ ] Otimização do Output para empresa embarcadora
-- [ ] Python code para otimização
+- [ ] Otimização do Output para empresa embarcadora;
+- [ ] Python code para otimização;
 - [ ] Testar e revisar;
 
       
