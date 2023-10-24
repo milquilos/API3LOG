@@ -33,7 +33,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Objetivo do Projeto
-** Resolver o problema de transporte do cliente. Otimizar o OUTPUT gerado.
+*** Resolver o problema de transporte do cliente. Otimizar o OUTPUT gerado.
 
 * Organizar e estruturar as informações;
 
@@ -42,14 +42,13 @@ Sprint | Previsão | Status| Histórico|
 * Desenvolver habilidades técnicas.
 
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
+[ROTAS_pallets_web.pdf](https://github.com/milquilos/API3LOG/files/13107101/ROTAS_pallets_web.pdf)
 
 Apresentação das funcionalidades
 
 EM ANDAMENTO
 
-Adicionar video e documentos nessa seção
-
-### BI Dashboard [(clique aqui)](https://api3log.slack.com/files/U05RBJ3GP1A/F062P9CT0SU/compartilhamento_de_tela_-_2023-10-19_22h01min47s.webm)
+### Tela BI [(clique aqui)](https://api3log.slack.com/files/U05RBJ3GP1A/F062P9CT0SU/compartilhamento_de_tela_-_2023-10-19_22h01min47s.webm)
 
 ## Tecnologias Utilizadas
 
