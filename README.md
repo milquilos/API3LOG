@@ -50,7 +50,6 @@ Sprint | Previsão | Status| Histórico|
 ![Captura de tela 2023-10-23 234456](https://github.com/milquilos/API3LOG/assets/112833107/a751f325-feac-4280-8d62-b437c4c3fad2)
 
 
-### Tela BI [(clique aqui)](https://api3log.slack.com/files/U05RBJ3GP1A/F062P9CT0SU/compartilhamento_de_tela_-_2023-10-19_22h01min47s.webm)
 
 ## Tecnologias Utilizadas
 
