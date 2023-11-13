@@ -41,12 +41,14 @@ Sprint | Previsão | Status| Histórico|
 
 # Funcionalidades e registros (vídeos e apresentações) das Sprints
 
-Sprint 1 - 
+## Sprint 1 - 24/10/2023
 ![Captura de tela 2023-10-23 234116](https://github.com/milquilos/API3LOG/assets/112833107/81260e50-8be8-4561-8a87-df5bed21f1f0)
 ![Captura de tela 2023-10-23 233740](https://github.com/milquilos/API3LOG/assets/112833107/acca98b9-d60c-450f-b70e-b71b03fd7714)
 ![Captura de tela 2023-10-23 234357](https://github.com/milquilos/API3LOG/assets/112833107/1e1de19f-750b-4695-b661-781e41042661)
 ![Captura de tela 2023-10-23 234429](https://github.com/milquilos/API3LOG/assets/112833107/582b6a04-26a1-4a45-b201-66cbd34670b9)
 ![Captura de tela 2023-10-23 234456](https://github.com/milquilos/API3LOG/assets/112833107/a751f325-feac-4280-8d62-b437c4c3fad2)
+
+## Sprint 2 - 14/11/2023
 
 
 
@@ -154,4 +156,5 @@ Requisitos não funcionais
 | Scrum Team  | Bárbara Anjos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/b%C3%A1rbara-dos-anjos-5829a6295/)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
 | Scrum Team  | Diana Moura              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
 |  Scrum Master  | Sérgio Fernando          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/](https://br.linkedin.com/in/sergio-fernando-teixeira-martins-925424283)) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Scrum Master  | Matheus Roberto          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Scrum Team  | Matheus Roberto          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
+|  Scrum Team  | Rafael          |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
