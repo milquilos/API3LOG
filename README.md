@@ -49,6 +49,7 @@ Sprint | Previsão | Status| Histórico|
 ![Captura de tela 2023-10-23 234456](https://github.com/milquilos/API3LOG/assets/112833107/a751f325-feac-4280-8d62-b437c4c3fad2)
 
 ## Sprint 2 - 14/11/2023
+![custo_médio_transp_mes_a_mes](https://github.com/milquilos/API3LOG/assets/112833107/14819aaa-2d60-42a7-953d-c0ea76926a6e)
 ![image](https://github.com/milquilos/API3LOG/assets/112833107/d432b4de-0391-4534-9528-b217339e3c8a)
 ![image](https://github.com/milquilos/API3LOG/assets/112833107/37a10e76-8722-459e-be37-e61d197eba6e)
 ![image](https://github.com/milquilos/API3LOG/assets/112833107/643dfd63-4dd3-4746-8d31-9c5cded45e96)
