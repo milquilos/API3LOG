@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais, validação externa e mentalidade ágil. 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentado nos pilares de aprendizado com problemas reais, validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Valor Possível. 
 Os resultados dos projetos obedecem cronograma definido pelo cliente durante o Kick-off.
 
@@ -23,15 +23,15 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 05/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00 | 03/10/2023 | concluído| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/alexandre_silva255_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BCC924850-3CE1-4E70-BB7F-6BD8E22FC775%7D&file=Sprint0_0310203_ROTEIRO.docx&action=default&mobileredirect=true&DefaultItemOpen=1) | 
-|01|  24/10/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 14/11/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 24/10/2023  | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 14/11/2023  | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 05/12/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 
 # Objetivo do Projeto
-*** Resolver o problema de transporte do cliente. Otimizar o OUTPUT gerado.
+*** Resolver o problema de transporte do cliente. Otimizar o OUTPUT e minimizar o custo anual com fretes.
 
 * Organizar e estruturar as informações;
 
@@ -60,7 +60,8 @@ Sprint | Previsão | Status| Histórico|
 
 * Jira Software
 * Microsoft Power BI
-* SLACK 
+* SLACK
+* Python
 
   ### Produto 
   > Propor solução viável para otimizar a produtividade de uma empresa transportadora.  
@@ -84,10 +85,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Elaborar um dashboard funcional no Power BI;
       
 ## Sprint 2 . Estruturação dos dados 
-- [ ] Definir o escopo da otimização pretendida;
-- [ ] Otimização do Output para empresa embarcadora;
-- [ ] Testar e revisar;
-
+- [x] Definir o escopo da otimização pretendida;
+- [x] Otimização do Output para empresa embarcadora;
       
 ## Sprint 3. Otimização
 
@@ -104,7 +103,7 @@ Regras de Negócio
 Requisitos funcionais 
 - Banco de dados estruturado
 - Relatórios 
-- Dashboard no BI
+- Dashboard funcional Power BI
 
   
 Requisitos não funcionais
