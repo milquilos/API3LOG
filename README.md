@@ -25,8 +25,8 @@ Sprint | Previsão | Status| Histórico|
 |00 | 03/10/2023 | concluído| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/alexandre_silva255_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BCC924850-3CE1-4E70-BB7F-6BD8E22FC775%7D&file=Sprint0_0310203_ROTEIRO.docx&action=default&mobileredirect=true&DefaultItemOpen=1) | 
 |01| 24/10/2023  | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 14/11/2023  | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 05/12/2023  | em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 |em desenvolvimento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 05/12/2023  | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções|12/12/2023 |  HOJE  |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 
